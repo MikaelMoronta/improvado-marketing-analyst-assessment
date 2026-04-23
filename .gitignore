@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# GCP keys — never commit
+*.json
+!package.json
+service-account*.json
