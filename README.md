@@ -5,7 +5,7 @@ Improvado Senior Data Analyst (Marketing) take-home. Source data spans three
 ad platforms — Facebook, Google, TikTok — covering Jan 1–30, 2024.
 
 **Dashboard:** https://datastudio.google.com/reporting/045564e5-3d8a-4cce-a8f2-825cdd079a0d
-**Video walkthrough:** _[link here after record]_
+**Video walkthrough:** https://youtu.be/qvTfZdBvOKU
 
 ---
 
