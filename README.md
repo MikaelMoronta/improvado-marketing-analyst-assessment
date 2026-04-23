@@ -91,11 +91,6 @@ improvado-assessment/
 ├── qa/
 │   ├── qa_checks.sql              # 7-test validation suite
 │   └── qa_results.md              # All checks passed (penny-exact reconciliation)
-├── docs/
-│   ├── dashboard_build_guide.md   # Step-by-step Looker Studio build
-│   ├── looker_studio_calculated_fields.md
-│   ├── insights_brief.md          # Three data-driven recommendations
-│   └── video_script.md            # Loom walkthrough script
 ├── requirements.txt
 └── README.md
 ```
